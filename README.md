@@ -9,7 +9,7 @@
   <a href="mailto:surendaruthaminathan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="260" height="160" style="margin-left: 20px;" />
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="220" height="160" style="margin-left: 20px;" />
 
 ### About Me
 - 👨‍💼 Former Software Engineer at ***Wipro***  
