@@ -1,4 +1,6 @@
-# Hi, I'm Surendar 
+```md
+# Hi, I'm Surendar 👋
+
 Backend Developer focused on building scalable APIs and microservices using Java & Spring Boot.
 
 ## 🚀 About Me
@@ -20,4 +22,4 @@ Backend Developer focused on building scalable APIs and microservices using Java
 - Portfolio: https://surendar-dev.vercel.app
 - LinkedIn: https://www.linkedin.com/in/surendar-uthaminathan
 - Email: surendaruthaminathan@gmail.com
-
+```
